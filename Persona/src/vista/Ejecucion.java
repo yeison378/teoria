@@ -16,7 +16,7 @@ public class Ejecucion {
 		Gestion gestion = new Gestion();
 		int opcion = 0;
 		while (opcion != 3) {
-			System.out.println("Seleccione la opcion que desea realizar");
+			System.out.println("Seleccione la opcion que desea");
 			System.out.println("0. PERSONAS");
 			System.out.println("1. CITAS");
 			System.out.println("2. SALIR");
