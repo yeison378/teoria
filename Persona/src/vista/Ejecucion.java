@@ -17,7 +17,7 @@ public class Ejecucion {
 		int opcion = 0;
 		while (opcion != 3) {
 
-			System.out.println("Seleccione la opcion yesion alexis medina");
+			System.out.println("Seleccione la opcion yesion alexis mebjbjdina");
 			System.out.println("0. PERSONAS");
 			System.out.println("1. CITAS");
 			System.out.println("2. SALIR");
